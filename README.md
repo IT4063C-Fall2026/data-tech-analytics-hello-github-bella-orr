@@ -24,23 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- While I knew this information prior to the lab, I relearned why it is important to stage a repo before commiting it. Staging allows us to choose exactly what changes we want to commit, allowing us to keep an organized environment.
 
 **I struggled with:** (repeat as needed)
-- .
+- I didn't find that I struggled with this lab specifically. It was more of just getting back into the flow of things from taking the summer off (such as remembering git status, git add ., git commit, and got push).
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- As of now, I do not need any support from the instructor as I believe I was comfortable when doing the lab.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 20 out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- N/A
 
 ---
 ## Copyrights and License
